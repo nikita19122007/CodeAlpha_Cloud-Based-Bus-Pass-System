@@ -1,0 +1,10 @@
+POST /api/pass/book
+  
+  Request Body.JSON
+  {
+    "passengerName":"Jeevagan",
+    "source":"Chennai",
+    "destination":"Coimbatore",
+    "travelDate":"2026-07-10",
+    "passType":"Monthly"
+}
