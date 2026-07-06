@@ -1,0 +1,4 @@
+GET /api/auth/profile
+
+Header
+Authorization: Bearer YOUR_JWT_TOKEN
