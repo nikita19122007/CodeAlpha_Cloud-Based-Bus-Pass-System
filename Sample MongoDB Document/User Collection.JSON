@@ -1,0 +1,9 @@
+{
+  "_id": "6868a1b24ab12345",
+  "fullName": "Jeevagan",
+  "email": "jeevagan@gmail.com",
+  "phone": "9876543210",
+  "password": "$2b$10$hashedpassword",
+  "role": "user",
+  "isVerified": true
+}
