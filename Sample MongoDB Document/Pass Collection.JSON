@@ -1,0 +1,12 @@
+{
+  "_id": "7868c12345",
+  "userId": "6868a1b24ab12345",
+  "passengerName": "Jeevagan",
+  "source": "Chennai",
+  "destination": "Coimbatore",
+  "travelDate": "2026-07-10",
+  "passType": "Monthly",
+  "ticketPrice": 1200,
+  "qrCode": "https://example.com/qr/7868c12345",
+  "bookingStatus": "Booked"
+}
